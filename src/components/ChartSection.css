@@ -1,0 +1,43 @@
+.chart-section {
+  padding: 20px 40px;
+  border-bottom: 1px solid #e5e5e5;
+  background: white;
+}
+
+.chart-container {
+  margin-top: 20px;
+}
+
+.chart-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 20px;
+}
+
+.chart-wrapper {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid #e9ecef;
+}
+
+.custom-tooltip {
+  background: white;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.custom-tooltip .label {
+  font-size: 12px;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.custom-tooltip .value {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1a1a1a;
+} 
