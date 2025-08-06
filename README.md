@@ -2,9 +2,7 @@
 
 A React-based dashboard that replicates the Apple Search Ads management platform interface, featuring a modern design with interactive components and real-time data visualization.
 
-## 🌐 Live Demo
 
-**View the live application:** [Apple Search Ads Dashboard](https://chiragck10.github.io/Apple-Ad-Blocker.)
 
 ## Features
 
