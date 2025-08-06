@@ -1,7 +1,7 @@
 {
   "name": "apple-search-ads-dashboard",
   "version": "1.0.0",
-  "homepage": "https://chiragck10.github.io/Apple-Ad-Blocker.",
+ 
   "private": true,
   "dependencies": {
     "lucide-react": "^0.263.1",
