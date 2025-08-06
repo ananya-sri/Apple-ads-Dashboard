@@ -108,16 +108,7 @@ The dashboard uses sample data that matches the original design:
 - Table data with performance metrics
 - All values match the original image exactly
 
-## Deployment
 
-This project is automatically deployed to GitHub Pages using GitHub Actions. The deployment workflow:
-
-1. Triggers on pushes to the main branch
-2. Installs dependencies
-3. Builds the production version
-4. Deploys to GitHub Pages
-
-The live application is available at: https://chiragck10.github.io/Apple-Ad-Blocker.
 
 ## Customization
 
